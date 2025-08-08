@@ -1,6 +1,6 @@
 # J.A.R.V.I.S<br>
 Iron man inspired Personal virtual assistant<br>
-[Website](https://kkshitiz.github.io/J.A.R.V.I.S/)
+Sanket Shinde Demo project on jarvis chat bot using machine learning 
 
 ![jarvis](./assets/images/jarvis.jpg)
 
@@ -256,5 +256,4 @@ _Use Python3 for development_
 
 <hr>
 
-*For help with writing markdown visit [this page](https://guides.github.com/features/mastering-markdown/)*<br>
-*You can use emojis too, take reference from [here](https://github.com/ikatyang/emoji-cheat-sheet)*<br>
+
